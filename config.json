@@ -18,7 +18,7 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "nickNameBot": "ST | BOT",
-  "prefix": "!",
+  "prefix": "/",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
@@ -30,7 +30,7 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [],
+  "adminBot": [100087466441450],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
